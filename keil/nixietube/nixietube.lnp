@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"nixietube.obj" 
+TO "nixietube" 
+RAMSIZE(256) 
