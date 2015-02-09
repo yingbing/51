@@ -1,2 +1,2 @@
 # 51 
-51单片机的学习代码
+51Single Chip Microcomputer practice code
